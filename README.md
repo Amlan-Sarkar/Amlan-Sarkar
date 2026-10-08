@@ -8,7 +8,7 @@ Currently building my way through Data Analytics & Machine Learning - one datase
 
 ## 🌱 Currently Leveling Up
 
-Working on a few variety of ideas(DataDeX, AirCon, LinkTuple and some random 💡™ 🗿)
+Working on a few variety of ideas(•DataDeX, •AirCon, •LinkTuple and some random 💡™ 🗿)
 
 ---
 
