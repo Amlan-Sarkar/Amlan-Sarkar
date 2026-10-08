@@ -17,7 +17,7 @@ Working on a few variety of ideas(•DataDeX, •AirCon, •LinkTuple and some r
 
 🛒 BigMart Sales Intelligence & Prediction
 
-📈 STMP — Stock Market Prediction
+📈 STMP - Stock Market Prediction
 
 🧠 Parkinson's Disease Detection
 
