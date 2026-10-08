@@ -4,28 +4,29 @@ I like turning messy data into something that actually makes sense.
 
 Currently building my way through Data Analytics & Machine Learning - one dataset, dashboard, model, and questionable debugging session at a time. ☕💻
 
-## 🌱 Currently Cooking 
+## 🌱 Currently Cooking
+
 ---
 
 Working on a few variety of ideas:
 
-• DataDeX
+- DataDeX
 
-• AirCom
+- AirCom
 
-• LinkTuple
+- LinkTuple
 
-• and some random 💡™ 🗿
+- and some random 💡™ 🗿
 
 ## 🚀 Things I've Built
 
 ---
 
-🛒 **BigMart Sales Intelligence & Prediction**
+🛒 BigMart Sales Intelligence & Prediction
 
-📈 **STMP — Stock Market Prediction**
+📈 STMP - Stock Market Prediction
 
-🧠 **Parkinson's Disease Detection**
+🧠 Parkinson's Disease Detection
 
 ## ⚡ A Little About Me
 
@@ -37,12 +38,12 @@ Working on a few variety of ideas:
 
 🧪 I learn best by building things and breaking them
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 ---
 
-If you're into **data, ML, tech, interesting projects, or just building cool stuff**, feel free to explore my repositories.
+If you're into data, ML, tech, interesting projects, or just building cool stuff, feel free to explore my repositories.
 
 ⭐ If something here helps you, a star is always appreciated.
 
-**Thanks for stopping by!** 🫡
+Thanks for stopping by! 🫡
