@@ -1,27 +1,41 @@
 # 👋 Hey, I'm Amlan
-🧠 Data • 📊 Analytics • 🤖 Machine Learning • 🐍 Python
 
-I like turning messy data into something that makes sense. ☕💻
+I like turning messy data into something that actually makes sense.
 
-## 🧩 What I Do
-📊 Data Analytics: cleaning, exploring, visualizing
-🐍 Python: analysis, automation, ML
-🗄️ SQL: querying and working with databases
-🤖 Machine Learning: building and evaluating predictive models
+Currently building my way through **Data Analytics & Machine Learning** — one dataset, dashboard, model, and questionable debugging session at a time. ☕💻
 
-## 🛠️ Toolbox
-`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn` `Tableau` `Streamlit` `Git` `GitHub`
-
-## 🚀 Projects
-🛒 **BigMart Sales Intelligence & Prediction**: retail analytics and ML, wrapped in a Streamlit app
-📈 **STMP (Stock Market Prediction)**: dashboard comparing BiLSTM, GRU, XGBoost, and ensemble models
-🧠 **Parkinson's Disease Detection**: classification with PCA, oversampling, and ensemble learning
+---
 
 ## 🌱 Currently Leveling Up
-🐍 Python & Data Analytics · 🗄️ SQL · 🤖 Machine Learning · ☁️ Cloud & Data
 
-## 📌 Philosophy
-Learn → Build → Break → Fix → Repeat.
+Working on a few variety of ideas
 
-## 🤝 Let's Connect
-⭐ Explore my repos, and a star is always appreciated. Thanks for stopping by! 🫡
+---
+
+
+## 🚀 Things I've Built
+
+🛒 BigMart Sales Intelligence & Prediction
+
+📈 STMP — Stock Market Prediction
+
+🧠 Parkinson's Disease Detection
+
+---
+
+## ⚡ A Little About Me
+
+🔍 Curious about how things work under the hood
+⌨️ I type fast enough to occasionally outrun my own thoughts
+🎮 Gaming is my preferred method of procrastination
+🧪 I learn best by **building things and breaking them**
+
+---
+
+### 🤝 Let's Connect
+
+If you're into **data, ML, tech, interesting projects, or just building cool stuff**, feel free to explore my repositories.
+
+⭐ If something here helps you, a star is always appreciated.
+
+**Thanks for stopping by!** 
