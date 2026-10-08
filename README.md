@@ -8,8 +8,14 @@ Currently building my way through Data Analytics & Machine Learning - one datase
 
 ## 🌱 Currently Leveling Up
 
-Working on a few variety of ideas(•DataDeX, •AirCon, •LinkTuple and some random 💡™ 🗿)
+Working on a few variety of ideas
+•DataDeX
 
+•AirCon
+
+•LinkTuple 
+
+and some random 💡™ 🗿)
 
 
 ## 🚀 Things I've Built
@@ -31,7 +37,6 @@ Working on a few variety of ideas(•DataDeX, •AirCon, •LinkTuple and some r
 🧪 I learn best by building things and breaking them
 
 ---
----
 
 ### 🤝 Let's Connect
 
@@ -40,3 +45,4 @@ If you're into **data, ML, tech, interesting projects, or just building cool stu
 ⭐ If something here helps you, a star is always appreciated.
 
 **Thanks for stopping by!** 
+---
