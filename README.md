@@ -2,7 +2,7 @@
 
 I like turning messy data into something that actually makes sense.
 
-Currently building my way through Data Analytics & Machine Learning, one dataset, dashboard, model, and questionable debugging session at a time. ☕💻
+Currently building my way through Data Analytics & Machine Learning - one dataset, dashboard, model, and questionable debugging session at a time. ☕💻
 
 ## 🌱 Currently Cooking
 
