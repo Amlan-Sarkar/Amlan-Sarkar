@@ -12,7 +12,6 @@ Working on a few variety of ideas(•DataDeX, •AirCon, •LinkTuple and some r
 
 ---
 
-
 ## 🚀 Things I've Built
 
 🛒 BigMart Sales Intelligence & Prediction
@@ -28,8 +27,6 @@ Working on a few variety of ideas(•DataDeX, •AirCon, •LinkTuple and some r
 🔍 Curious about how things work under the hood
 
 ⌨️ I type fast enough to occasionally outrun my own thoughts
-
-🎮 Gaming is my preferred method of procrastination
 
 🧪 I learn best by building things and breaking them
 
