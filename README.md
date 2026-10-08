@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey, I'm Amlan
+🧠 Data • 📊 Analytics • 🤖 Machine Learning • 🐍 Python
 
-<!--
-**Amlan-Sarkar/Amlan-Sarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like turning messy data into something that makes sense. ☕💻
 
-Here are some ideas to get you started:
+## 🧩 What I Do
+📊 Data Analytics: cleaning, exploring, visualizing
+🐍 Python: analysis, automation, ML
+🗄️ SQL: querying and working with databases
+🤖 Machine Learning: building and evaluating predictive models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Toolbox
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Matplotlib` `Seaborn` `Tableau` `Streamlit` `Git` `GitHub`
+
+## 🚀 Projects
+🛒 **BigMart Sales Intelligence & Prediction**: retail analytics and ML, wrapped in a Streamlit app
+📈 **STMP (Stock Market Prediction)**: dashboard comparing BiLSTM, GRU, XGBoost, and ensemble models
+🧠 **Parkinson's Disease Detection**: classification with PCA, oversampling, and ensemble learning
+
+## 🌱 Currently Leveling Up
+🐍 Python & Data Analytics · 🗄️ SQL · 🤖 Machine Learning · ☁️ Cloud & Data
+
+## 📌 Philosophy
+Learn → Build → Break → Fix → Repeat.
+
+## 🤝 Let's Connect
+⭐ Explore my repos, and a star is always appreciated. Thanks for stopping by! 🫡
