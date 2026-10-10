@@ -8,6 +8,8 @@ Currently building my way through Data Analytics & Machine Learning - one datase
 
 Working on a few variety of ideas:
 
+- Droply
+
 - DataDeX
 
 - AirCom
